@@ -1,2 +1,6 @@
 ﻿  test.c
+D:\C 2025 std\2025-5\Qsort\test.c(113,28): warning C4047: “函数”:“const char *”与“char (*)[6]”的间接级别不同
+D:\C 2025 std\2025-5\Qsort\test.c(113,24): warning C4024: “strlen”: 形参和实参 1 的类型不同
+D:\C 2025 std\2025-5\Qsort\test.c(114,32): warning C4047: “函数”:“const char *”与“char (*)[6]”的间接级别不同
+D:\C 2025 std\2025-5\Qsort\test.c(114,29): warning C4024: “strlen”: 形参和实参 1 的类型不同
   Qsort.vcxproj -> D:\C 2025 std\2025-5\Qsort\Debug\Qsort.exe
